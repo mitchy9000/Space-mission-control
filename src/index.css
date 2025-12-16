@@ -1,0 +1,37 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #2702f7;
+}
+
+.mission-control {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mission-filter button {
+  margin-right: 8px;
+  padding: 6px 10px;
+}
+
+.mission-filter .active {
+  font-weight: bold;
+  background: #222;
+  color: rgb(243, 2, 2);
+}
+
+.mission-item {
+  background: rgb(141, 228, 42);
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.mission-card h3 {
+  margin: 0 0 8px 0;
+}
+
+.mission-actions button {
+  margin-right: 6px;
+}
